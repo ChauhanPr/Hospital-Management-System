@@ -1,0 +1,7 @@
+object hey
+{
+	def main(args:[String])
+	{
+		println("Hello..")
+	}
+}
